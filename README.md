@@ -1,4 +1,4 @@
-# Frair
+# Outdated KMP + Rust template (check mages build.gradle.kts and structure for updated parts)
 
 Kotlin Multiplatform (Compose for Android) app with a Rust core called via JNI.
 
